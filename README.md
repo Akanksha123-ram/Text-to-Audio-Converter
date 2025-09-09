@@ -9,14 +9,6 @@ Simply input your text, choose a voice and settings, and generate high-quality a
 - Save audio as high-quality files (e.g., MP3/WAV)  
 - Lightweight and easy to use
   
-📂 Project Structure
-
-Text-to-Audio-Converter/
-│-- main.py
-│-- requirements.txt
-│-- README.md
-
-
 📸 Example Output
 
 Input: "Hello, welcome to Text-to-Audio-Converter!"
