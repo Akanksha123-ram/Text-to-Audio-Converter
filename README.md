@@ -44,14 +44,7 @@ Text-to-Audio-Converter/
 
 ## ⚡ Getting Started
 
-### 1️⃣ Clone the Repository
-
-```bash
-git clone https://github.com/your-username/Text-to-Audio-Converter.git
-cd Text-to-Audio-Converter
-```
-
-### 2️⃣ Install Dependencies
+### 1️⃣ Install Dependencies
 
 ```bash
 pip install -r requirements.txt
